@@ -12,7 +12,6 @@ Flutter WebRTC One to one Video Call with socket.io
   <li>Hangup</li>
 </ul>
 
-Server project : https://github.com/ReberSincar/Webrtc-Nodejs-Socketio-Server
 
 Add your server address to lib/services/socket_service.dart file.
 
