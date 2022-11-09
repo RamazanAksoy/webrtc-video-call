@@ -1,14 +1,6 @@
 # Webrtc-Nodejs-Socketio-Server
 
-Call a user with video
-Call a user with audio
-Answer call
-Decline call
-Cancel call
-Switch camera
-Mute / Unmute microphone
-Hangup
-
+server start steps
 
 - npm install 
 - npm start
